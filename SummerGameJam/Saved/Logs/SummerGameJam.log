@@ -1780,3 +1780,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.09-23.31.01:986][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2019.08.09-23.31.02:094][721]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap14ECA22443A70B1E7F38B8A181D9312B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
 [2019.08.09-23.31.03:825][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.33.14:701][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.33.17:229][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.33.17:875][470]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.09-23.33.29:837][878]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.09-23.33.29:841][878]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.09-23.33.30:724][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.33.30:816][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.08.09-23.33.30:925][989]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap44A101044B9416DF0EC7718BBBCF8CAF.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.09-23.33.31:936][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
