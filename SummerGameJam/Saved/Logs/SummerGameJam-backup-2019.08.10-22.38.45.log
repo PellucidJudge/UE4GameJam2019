@@ -1,0 +1,841 @@
+﻿Log file open, 08/11/19 00:23:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SummerGameJam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.174630
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: F:/EpicGames/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.10-22.23.58:295][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.10-22.23.58:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:296][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:373][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.10-22.23.58:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.10-22.23.58:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.10-22.23.58:392][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.10-22.23.58:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.10-22.23.58:466][  0]LogHAL: Display: Platform has ~ 8 GB [8467165184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.10-22.23.58:487][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.10-22.23.58:487][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.10-22.23.58:487][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:487][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.10-22.23.58:487][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.10-22.23.58:487][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:487][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.10-22.23.58:488][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.10-22.23.58:489][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-22.23.58:489][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.10-22.23.58:489][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.10-22.23.58:489][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.10-22.23.58:509][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.10-22.23.58:509][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.10-22.23.58:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.10-22.23.58:515][  0]LogInit: Computer: BAE
+[2019.08.10-22.23.58:515][  0]LogInit: User: Bakari
+[2019.08.10-22.23.58:515][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.10-22.23.58:515][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2019.08.10-22.23.58:536][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.08.10-22.23.58:536][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.10-22.23.58:537][  0]LogMemory: Process Physical Memory: 98.41 MB used, 98.41 MB peak
+[2019.08.10-22.23.58:537][  0]LogMemory: Process Virtual Memory: 90.08 MB used, 90.08 MB peak
+[2019.08.10-22.23.58:537][  0]LogMemory: Physical Memory: 6312.67 MB used,  1762.25 MB free, 8074.92 MB total
+[2019.08.10-22.23.58:537][  0]LogMemory: Virtual Memory: 4660.33 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.10-22.24.00:480][  0]LogInit: Using OS detected language (sv-SE).
+[2019.08.10-22.24.00:480][  0]LogInit: Using OS detected locale (sv-SE).
+[2019.08.10-22.24.00:572][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2019.08.10-22.24.01:574][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.10-22.24.02:565][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.10-22.24.02:565][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.10-22.24.06:128][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.10-22.24.06:128][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.10-22.24.06:493][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.08.10-22.24.06:493][  0]LogD3D11RHI:       2019/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.10-22.24.06:517][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.08.10-22.24.06:517][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.10-22.24.06:520][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.10-22.24.06:520][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.10-22.24.06:520][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.10-22.24.06:608][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.10-22.24.06:608][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.10-22.24.06:608][  0]LogWindows: EnumDisplayDevices:
+[2019.08.10-22.24.06:609][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.08.10-22.24.06:610][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.08.10-22.24.06:610][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.08.10-22.24.06:610][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.10-22.24.06:610][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.08.10-22.24.06:610][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.10-22.24.06:611][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.10-22.24.06:611][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2019.08.10-22.24.06:741][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.10-22.24.07:001][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-22.24.07:052][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-22.24.07:052][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-22.24.07:143][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2019.08.10-22.24.09:816][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.10-22.24.09:864][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.10-22.24.09:902][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.10-22.24.09:961][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.10-22.24.10:068][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.10-22.24.10:138][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.10-22.24.10:170][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.10-22.24.10:199][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.10-22.24.10:233][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.10-22.24.10:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.10-22.24.10:440][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.10-22.24.10:680][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.10-22.24.10:680][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.10-22.24.10:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.10-22.24.10:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.10-22.24.10:770][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.10-22.24.10:808][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.10-22.24.10:834][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.10-22.24.10:927][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.10-22.24.11:015][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.10-22.24.11:015][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.10-22.24.11:015][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.10-22.24.11:230][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.10-22.24.12:422][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Intermediate/Shaders/WorkingDirectory/8060/).
+[2019.08.10-22.24.12:422][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bakari/AppData/Local/Temp/UnrealShaderWorkingDir/26B154F74B7CB0F2E30792B12F830531/'.
+[2019.08.10-22.24.12:466][  0]LogXGEController: Cleaning working directory: C:/Users/Bakari/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.10-22.24.12:466][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.10-22.24.12:466][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.10-22.24.12:466][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.10-22.24.17:282][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: Loaded boot cache 0.80s 71MB C:/Users/Bakari/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bakari/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.10-22.24.18:105][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.10-22.24.18:204][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.10-22.24.18:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.10-22.24.18:204][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.10-22.24.18:232][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bakari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.10-22.24.18:232][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.10-22.24.18:232][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.10-22.24.18:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.10-22.24.18:367][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.10-22.24.18:506][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.10-22.24.19:286][  0]LogAssetRegistry: FAssetRegistry took 0.0369 seconds to start up
+[2019.08.10-22.24.23:028][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.10-22.24.26:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.10-22.24.26:596][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.10-22.24.26:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.10-22.24.26:596][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.10-22.24.26:596][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.10-22.24.27:018][  0]LogNetVersion: SummerGameJam 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2220120738)
+[2019.08.10-22.24.33:084][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.209963 seconds
+[2019.08.10-22.24.33:129][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.10-22.24.33:129][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.10-22.24.33:129][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.10-22.24.44:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.10-22.24.45:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.10-22.24.46:631][  0]SourceControl: Source control is disabled
+[2019.08.10-22.24.46:632][  0]SourceControl: Source control is disabled
+[2019.08.10-22.24.46:847][  0]SourceControl: Source control is disabled
+[2019.08.10-22.24.46:910][  0]SourceControl: Source control is disabled
+[2019.08.10-22.24.49:816][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.10-22.24.51:011][  0]LogOcInput: OculusInput pre-init called
+[2019.08.10-22.24.59:039][  0]LogEngine: Initializing Engine...
+[2019.08.10-22.24.59:105][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.10-22.24.59:108][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.08.10-22.24.59:982][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.10-22.25.00:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.10-22.25.01:288][  0]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.25.01:404][  0]LogInit: FAudioDevice initialized.
+[2019.08.10-22.25.01:405][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.10-22.25.01:639][  0]LogDerivedDataCache: Saved boot cache 0.23s 71MB C:/Users/Bakari/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.10-22.25.01:647][  0]LogInit: Texture streaming: Enabled
+[2019.08.10-22.25.02:743][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.10-22.25.03:694][  0]LogInit: Transaction tracking system initialized
+[2019.08.10-22.25.04:771][  0]BlueprintLog: New page: Editor Load
+[2019.08.10-22.25.07:824][  0]LocalizationService: Localization service is disabled
+[2019.08.10-22.25.13:235][  0]LogFileCache: Scanning file cache for directory 'F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/' took 0.04s
+[2019.08.10-22.25.13:235][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.10-22.25.13:236][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.10-22.25.19:156][  0]SourceControl: Source control is disabled
+[2019.08.10-22.25.19:207][  0]Cmd: MAP LOAD FILE="../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.10-22.25.19:260][  0]LightingResults: New page: Lighting Build
+[2019.08.10-22.25.19:732][  0]MapCheck: New page: Map Check
+[2019.08.10-22.25.19:732][  0]LightingResults: New page: Lighting Build
+[2019.08.10-22.25.20:695][  0]LogUObjectHash: Compacting FUObjectHashTables data took  16.92ms
+[2019.08.10-22.25.26:364][  0]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.25.27:179][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:180][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:181][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:181][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:182][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:182][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:182][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:182][  0]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.25.27:536][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.10-22.25.27:722][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.08.10-22.25.27:747][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.10-22.25.27:765][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,6ms to complete.
+[2019.08.10-22.25.27:768][  0]LogFileHelpers: Loading map 'Testmap' took 8.589
+[2019.08.10-22.25.31:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.25.31:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.25.31:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.25.31:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.25.31:759][  0]LogCollectionManager: Loaded 0 collections in 0.003380 seconds
+[2019.08.10-22.25.32:080][  0]LogFileCache: Scanning file cache for directory 'F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Collections/' took 0.01s
+[2019.08.10-22.25.32:080][  0]LogFileCache: Scanning file cache for directory 'F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Developers/Bakari/Collections/' took 0.01s
+[2019.08.10-22.25.32:080][  0]LogFileCache: Scanning file cache for directory 'F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Collections/' took 0.00s
+[2019.08.10-22.25.32:080][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.10-22.25.32:094][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2732 classes and 659 folders.
+[2019.08.10-22.25.32:321][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2019.08.10-22.25.32:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.32:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-22.25.34:674][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.10-22.25.34:741][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.10-22.25.35:788][  0]LogSlate: Took 0.017098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.10-22.25.35:873][  0]LogSlate: Took 0.047559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.10-22.25.36:070][  0]LogSlate: Took 0.024432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.10-22.25.37:293][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.10-22.25.39:328][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.10-22.25.39:328][  0]LogLoad: (Engine Initialization) Total time: 128.82 seconds
+[2019.08.10-22.25.39:328][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.10-22.25.39:968][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.10-22.25.40:365][  0]LogSlate: Took 0.026431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.10-22.25.41:460][  2]LogSlate: Took 0.000959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.10-22.25.41:534][  3]LogAssetRegistry: Asset discovery search completed in 82.2710 seconds
+[2019.08.10-22.25.41:593][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.10-22.25.41:593][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000351 seconds (updated 0 objects)
+[2019.08.10-22.26.10:097][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.26.14:974][301]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_fwd_01.cha_patch_12_strife_fwd_01
+[2019.08.10-22.26.15:320][301]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.10-22.26.16:521][301]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.10-22.26.16:543][301]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.10-22.26.17:231][301]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.10-22.26.19:555][301]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.10-22.26.22:223][362]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:62).
+[2019.08.10-22.26.34:505][662]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_lft_01.cha_patch_12_strife_lft_01
+[2019.08.10-22.26.43:601][831]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_bck_01.cha_patch_12_strife_bck_01
+[2019.08.10-22.26.55:831][ 60]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_rgt_01.cha_patch_12_strife_rgt_01
+[2019.08.10-22.27.04:435][208]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_rgt_0135ECA49F47C46CEF3C9B73AE5D0CCE28.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_rgt_01.uasset'
+[2019.08.10-22.27.04:591][208]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_bck_01766C870446997A3F1BAD15A82DD3054B.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_bck_01.uasset'
+[2019.08.10-22.27.04:759][208]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_fwd_0147B704BF4829119B286E6AB3186B4E25.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_fwd_01.uasset'
+[2019.08.10-22.27.04:926][208]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_lft_0133BD9DEA49B204C0D425779AE5215880.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_lft_01.uasset'
+[2019.08.10-22.27.07:368][263]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_aim_fwd_01.cha_patch_12_aim_fwd_01
+[2019.08.10-22.27.11:621][321]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_aim_fwd_017B02BB5C41975840426050867DAC83CB.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_aim_fwd_01.uasset'
+[2019.08.10-22.27.13:645][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.27.13:774][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.27.13:808][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.27.13:894][358]PIE: New page: PIE session: Testmap (11 aug 2019 02:27:13)
+[2019.08.10-22.27.14:171][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.27.14:268][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096142s)
+[2019.08.10-22.27.14:284][358]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.27.14:315][358]LogPlayLevel: PIE: World Init took: (0.047490s)
+[2019.08.10-22.27.14:315][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.144337s)
+[2019.08.10-22.27.14:448][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.08.10-22.27.14:473][358]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.27.14:559][358]LogInit: FAudioDevice initialized.
+[2019.08.10-22.27.15:716][358]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.27.15:762][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:762][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:763][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:763][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:763][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:763][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:764][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:764][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:766][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.27.15
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_fwd_01_5.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_rgt_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_rgt_01_11.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:786][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_strife_bck_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_strife_bck_01_14.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:787][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.15:787][358]LogAnimation: Warning: Setting an additive animation (cha_patch_12_aim_fwd_01) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/Maps/UEDPIE_0_Testmap.Testmap:PersistentLevel.cha_patch_12_aim_fwd_01_17.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2019.08.10-22.27.16:014][358]LogWorld: Bringing up level for play took: 0.296882
+[2019.08.10-22.27.16:207][358]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.08.10-22.27.16:348][358]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 3,15
+[2019.08.10-22.27.16:348][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.27.22:435][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.27.22:454][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.27.22:496][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.27.22:497][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.27.22:705][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.27.22:739][525]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2019.08.10-22.27.22:857][526]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.10-22.27.26:422][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.27.28:110][627]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Art/Characters/cha_patch_12/cha_patch_12_ABP.cha_patch_12_ABP
+[2019.08.10-22.27.28:300][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.10-22.27.30:666][627]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.08.10-22.27.33:547][627]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.10-22.27.34:892][627]LogSlate: Took 0.028585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.10-22.27.42:073][779]BlueprintLog: New page: Compile cha_patch_12_ABP
+[2019.08.10-22.27.43:082][779]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2019.08.10-22.27.48:683][887]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_bck_01.cha_patch_12_strife_bck_01
+[2019.08.10-22.27.54:937][994]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_bck_01.cha_patch_12_strife_bck_01
+[2019.08.10-22.27.55:061][994]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.cha_patch_12_strife_bck_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.10-22.27.57:045][ 15]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_bck_01D7D79035476141AF3485829685035520.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_bck_01.uasset'
+[2019.08.10-22.27.59:772][ 60]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_fwd_01.cha_patch_12_strife_fwd_01
+[2019.08.10-22.28.06:981][176]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_fwd_01.cha_patch_12_strife_fwd_01
+[2019.08.10-22.28.06:984][176]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.cha_patch_12_strife_fwd_01) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.10-22.28.08:232][193]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_fwd_01EBCDE8E5450CC4454399B88370425467.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_fwd_01.uasset'
+[2019.08.10-22.28.10:159][228]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_lft_01.cha_patch_12_strife_lft_01
+[2019.08.10-22.28.13:673][280]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_lft_01.cha_patch_12_strife_lft_01
+[2019.08.10-22.28.13:675][280]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.cha_patch_12_strife_lft_01) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.10-22.28.15:022][300]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_lft_01F2A0F3734468B00A2CED529E1F62A3B5.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_lft_01.uasset'
+[2019.08.10-22.28.16:954][334]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_rgt_01.cha_patch_12_strife_rgt_01
+[2019.08.10-22.28.19:848][380]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_rgt_01.cha_patch_12_strife_rgt_01
+[2019.08.10-22.28.19:849][380]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.cha_patch_12_strife_rgt_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.10-22.28.20:875][394]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_strife_rgt_010D715EBD4C230D7817A7648B43AD5811.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_strife_rgt_01.uasset'
+[2019.08.10-22.28.23:534][438]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_idle_01.cha_patch_12_idle_01
+[2019.08.10-22.28.29:369][541]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_aim_fwd_01.cha_patch_12_aim_fwd_01
+[2019.08.10-22.28.31:578][577]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Art/Characters/cha_patch_12/Animation/cha_patch_12_aim_fwd_01.cha_patch_12_aim_fwd_01
+[2019.08.10-22.28.31:582][577]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.cha_patch_12_aim_fwd_01) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.10-22.28.32:669][591]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_aim_fwd_0133A9774E4328E97B3F0BDEB688618B6D.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/cha_patch_12_aim_fwd_01.uasset'
+[2019.08.10-22.28.34:095][618]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.28.34:250][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.28.34:250][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.28.34:251][618]PIE: New page: PIE session: Testmap (11 aug 2019 02:28:34)
+[2019.08.10-22.28.34:251][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.28.34:273][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022050s)
+[2019.08.10-22.28.34:274][618]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.28.34:274][618]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2019.08.10-22.28.34:274][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.023507s)
+[2019.08.10-22.28.34:432][618]LogUObjectHash: Compacting FUObjectHashTables data took  17.90ms
+[2019.08.10-22.28.34:454][618]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.28.34:628][618]LogInit: FAudioDevice initialized.
+[2019.08.10-22.28.34:662][618]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.28.34:671][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.28.34
+[2019.08.10-22.28.34:672][618]LogWorld: Bringing up level for play took: 0.009066
+[2019.08.10-22.28.34:691][618]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,507
+[2019.08.10-22.28.34:692][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.28.58:280][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.28.58:281][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.28.58:322][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.28.58:322][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.28.58:440][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.28.58:453][406]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.08.10-22.28.58:545][407]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.10-22.29.00:241][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.29.00:588][455]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Art/Characters/cha_patch_12/Animation/test.test
+[2019.08.10-22.29.22:639][833]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/testF73B149144A4AF3C86B195BE642E31EE.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/test.uasset'
+[2019.08.10-22.29.33:824][ 38]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/test110A4D2947AC0E3732D5BDB63EB4CC03.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/test.uasset'
+[2019.08.10-22.29.35:459][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.29.35:612][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.29.35:612][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.29.35:612][ 75]PIE: New page: PIE session: Testmap (11 aug 2019 02:29:35)
+[2019.08.10-22.29.35:612][ 75]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.29.35:623][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010449s)
+[2019.08.10-22.29.35:624][ 75]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.29.35:624][ 75]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2019.08.10-22.29.35:624][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.011835s)
+[2019.08.10-22.29.35:715][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2019.08.10-22.29.35:726][ 75]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.29.35:821][ 75]LogInit: FAudioDevice initialized.
+[2019.08.10-22.29.35:855][ 75]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.29.35:861][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.29.35
+[2019.08.10-22.29.35:862][ 75]LogWorld: Bringing up level for play took: 0.005975
+[2019.08.10-22.29.35:878][ 75]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,68
+[2019.08.10-22.29.35:879][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.30.07:470][104]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-51.05 Y=-19.97 Z=0.00 Location: X=790.51 Y=196.15 Z=139.72 Normal: X=0.46 Y=-0.71 Z=-0.54 PenetrationDepth:0.190 Actor:cha_patch_12_shoot_up_01_2 Component:SkeletalMeshComponent0 BoneName:hand_l (0 other events since notify)
+[2019.08.10-22.30.11:353][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.30.11:354][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.30.11:398][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.30.11:399][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.30.11:514][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.30.11:531][243]LogUObjectHash: Compacting FUObjectHashTables data took   9.67ms
+[2019.08.10-22.30.11:575][244]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.10-22.30.19:969][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.30.41:303][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.08.10-22.30.43:902][739]LogSlate: Took 0.042835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.10-22.31.42:973][108]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.10-22.31.48:420][178]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.08.10-22.32.04:617][547]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.10-22.32.04:630][547]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.10-22.32.05:876][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.10-22.32.17:574][835]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.08.10-22.33.01:157][697]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Art/Characters/cha_patch_12/Animation/test.test
+[2019.08.10-22.33.01:212][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.10-22.33.01:772][697]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.10-22.33.03:365][697]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.10-22.33.34:254][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.33.34:342][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.33.34:342][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.33.34:342][268]PIE: New page: PIE session: Testmap (11 aug 2019 02:33:34)
+[2019.08.10-22.33.34:342][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.33.34:354][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011632s)
+[2019.08.10-22.33.34:355][268]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.33.34:356][268]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2019.08.10-22.33.34:356][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.013456s)
+[2019.08.10-22.33.34:528][268]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.08.10-22.33.34:539][268]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.33.34:678][268]LogInit: FAudioDevice initialized.
+[2019.08.10-22.33.34:714][268]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.33.34:722][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.33.34
+[2019.08.10-22.33.34:724][268]LogWorld: Bringing up level for play took: 0.007808
+[2019.08.10-22.33.34:743][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,456
+[2019.08.10-22.33.34:743][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.33.47:515][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.33.47:516][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.33.47:671][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.33.47:672][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.33.47:797][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.33.47:817][671]LogUObjectHash: Compacting FUObjectHashTables data took  13.29ms
+[2019.08.10-22.33.47:920][672]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.08.10-22.33.50:768][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-22.33.54:525][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.34.08:213][991]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/test5661584249876DD74BA1ECB1B865110A.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/Animation/test.uasset'
+[2019.08.10-22.34.10:368][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.34.10:509][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.34.10:509][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.34.10:509][ 38]PIE: New page: PIE session: Testmap (11 aug 2019 02:34:10)
+[2019.08.10-22.34.10:509][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.34.10:517][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007498s)
+[2019.08.10-22.34.10:518][ 38]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.34.10:518][ 38]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.08.10-22.34.10:518][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.008772s)
+[2019.08.10-22.34.10:669][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   9.45ms
+[2019.08.10-22.34.10:685][ 38]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.34.10:822][ 38]LogInit: FAudioDevice initialized.
+[2019.08.10-22.34.10:857][ 38]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.34.10:866][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.34.10
+[2019.08.10-22.34.10:868][ 38]LogWorld: Bringing up level for play took: 0.008782
+[2019.08.10-22.34.10:885][ 38]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,313
+[2019.08.10-22.34.10:885][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.34.30:997][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.34.30:998][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.34.31:040][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.34.31:041][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.34.31:174][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.34.31:201][634]LogUObjectHash: Compacting FUObjectHashTables data took  17.29ms
+[2019.08.10-22.34.31:305][635]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.10-22.34.33:899][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-22.34.50:681][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.35.39:578][454]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-22.35.40:817][454]LogUObjectHash: Compacting FUObjectHashTables data took  50.32ms
+[2019.08.10-22.35.44:673][486]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.35.44:873][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.35.44:874][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.35.44:874][486]PIE: New page: PIE session: Testmap (11 aug 2019 02:35:44)
+[2019.08.10-22.35.44:874][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.35.44:897][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022120s)
+[2019.08.10-22.35.44:900][486]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.35.44:901][486]LogPlayLevel: PIE: World Init took: (0.003327s)
+[2019.08.10-22.35.44:901][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.026114s)
+[2019.08.10-22.35.45:040][486]LogUObjectHash: Compacting FUObjectHashTables data took  22.79ms
+[2019.08.10-22.35.45:059][486]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.35.45:243][486]LogInit: FAudioDevice initialized.
+[2019.08.10-22.35.45:284][486]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.35.45:297][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.35.45
+[2019.08.10-22.35.45:300][486]LogWorld: Bringing up level for play took: 0.014468
+[2019.08.10-22.35.45:337][486]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,138
+[2019.08.10-22.35.45:337][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.35.59:695][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.35.59:698][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.35.59:802][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.35.59:803][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.36.00:070][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.36.00:104][745]LogUObjectHash: Compacting FUObjectHashTables data took  16.21ms
+[2019.08.10-22.36.00:261][746]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.10-22.36.11:687][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.36.11:740][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-22.36.11:858][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.36.11:859][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-22.36.11:859][824]PIE: New page: PIE session: Testmap (11 aug 2019 02:36:11)
+[2019.08.10-22.36.11:859][824]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-22.36.11:884][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024801s)
+[2019.08.10-22.36.11:888][824]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-22.36.11:890][824]LogPlayLevel: PIE: World Init took: (0.005209s)
+[2019.08.10-22.36.11:890][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.031032s)
+[2019.08.10-22.36.12:001][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2019.08.10-22.36.12:016][824]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-22.36.12:147][824]LogInit: FAudioDevice initialized.
+[2019.08.10-22.36.12:188][824]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-22.36.12:197][824]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 60) at 2019.08.11-00.36.12
+[2019.08.10-22.36.12:200][824]LogWorld: Bringing up level for play took: 0.010886
+[2019.08.10-22.36.12:226][824]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 1,028
+[2019.08.10-22.36.12:227][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.36.33:371][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.36.33:372][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.36.33:422][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-22.36.33:422][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-22.36.33:565][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-22.36.33:613][455]LogUObjectHash: Compacting FUObjectHashTables data took  25.94ms
+[2019.08.10-22.36.33:719][456]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.10-22.36.46:016][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-22.37.02:682][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Testmap" FILE="../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.10-22.37.02:812][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.08.10-22.37.03:823][983]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/TestmapC33B7CBE4DEF7CDF19C79BA42D3DFB83.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-22.37.16:601][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.08.10-22.37.17:043][435]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter2A2DEF194026DF39460EBD881E8156BE.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-22.37.17:326][435]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_ABP29DF21784C2D3833B6F133B7D5BD64D7.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/cha_patch_12_ABP.uasset'
