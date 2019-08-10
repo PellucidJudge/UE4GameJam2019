@@ -1789,3 +1789,896 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.09-23.33.30:816][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2019.08.09-23.33.30:925][989]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap44A101044B9416DF0EC7718BBBCF8CAF.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
 [2019.08.09-23.33.31:936][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.34.12:102][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.34.16:573][716]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.09-23.34.18:698][935]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.34.19:290][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.35.12:478][405]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterfaceF7881451464883EC23664481651B3F15.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.35.13:770][559]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Interfaces/I_HealthInterface.I_HealthInterface
+[2019.08.09-23.35.16:600][886]BlueprintLog: New page: Compile I_HealthInterface
+[2019.08.09-23.35.16:627][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.08.09-23.35.17:142][946]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterface1A5187464E2AC8C8ADD84CB43B6B869C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.36.06:924][907]LogSlate: Took 0.003123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.09-23.36.10:094][286]BlueprintLog: New page: Compile I_HealthInterface
+[2019.08.09-23.36.10:123][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.09-23.36.10:547][335]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterface5CA5FD3043E05FE536365A989BE776D9.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.36.25:576][108]BlueprintLog: New page: Compile I_HealthInterface
+[2019.08.09-23.36.25:599][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.09-23.36.25:999][154]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterface49C38661463E8A49E627ECB67A72E717.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.37.05:156][503]BlueprintLog: New page: Compile I_HealthInterface
+[2019.08.09-23.37.05:180][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.09-23.37.06:007][600]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterfaceB5E2E5AE494F98118B6454A826B52707.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.37.13:054][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.37.13:083][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.09-23.37.13:197][420]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap0EE62C9447C513880B9E7B8E5B5E842B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.09-23.37.15:751][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.37.37:394][235]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterface540978FE43D1763DA7A4BC8F8B7242DE.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.37.38:524][369]LogSlate: Window 'I_HealthInterface' being destroyed
+[2019.08.09-23.37.45:799][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.09-23.37.47:540][414]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.37.47:606][414]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.09-23.37.53:622][100]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.09-23.37.58:681][700]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.37.58:818][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.08.09-23.37.59:208][743]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter8FA787864E758096F73CD4BBC5453E84.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.38.15:598][652]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.38.15:732][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.08.09-23.38.16:003][681]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterC2998228494F891E2F16C7802E44B4DC.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.38.16:728][760]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.38.16:732][760]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.38.18:888][ 12]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Interfaces/I_HealthInterface.I_HealthInterface
+[2019.08.09-23.38.33:292][711]BlueprintLog: New page: Compile I_HealthInterface
+[2019.08.09-23.38.33:421][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.09-23.38.34:256][809]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/I_HealthInterface27E0682B4C05D0259C7E80AA780C5E0E.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Interfaces/I_HealthInterface.uasset'
+[2019.08.09-23.38.39:456][422]LogSlate: Window 'I_HealthInterface' being destroyed
+[2019.08.09-23.38.39:461][422]LogSlate: Window 'I_HealthInterface' being destroyed
+[2019.08.09-23.38.42:867][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.09-23.38.45:389][ 93]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter37614266440AA9825050EF94713438BD.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.05:819][475]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.39.05:962][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.09-23.39.06:329][515]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter6153D20F4F5B2FC3C1F894A3A351A34C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.18:199][931]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterF0FEEDD24EEA5149915637BA98AF48BF.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.36:149][ 68]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.39.36:282][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.09-23.39.36:673][110]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterFB660DD44DF42FE5C4B47999150474C1.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.39:385][415]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.39.39:518][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.09-23.39.39:751][438]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterDA2F257745A7AC9EB2E10AB2AD952B1B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.49:164][559]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.39.49:299][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.09-23.39.49:616][592]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter1EF58759477B34397698D2A83EB36463.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.39.54:010][114]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter5658AFD9408E3837F4F937B8B8B801C7.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.40.00:518][864]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter40E8F0ED4918DED0479E94ADC148BC00.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.40.52:304][ 69]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.40.52:438][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.08.09-23.40.52:821][110]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterDB6B7EBD48151471BFE30DAA22D48A60.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.41.03:992][ 99]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterB9B6167240C12639A44ECEA3811463AB.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.41.19:387][894]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.41.19:518][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.09-23.41.20:366][990]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter66857B8C4630C424E9FA2C88A56A7148.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.41.34:218][625]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.41.34:362][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.08.09-23.41.34:771][670]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter38BA17DE4E409FF0999FEE82F28F10B7.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.42.10:283][915]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.42.10:429][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.09-23.42.10:790][954]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterCD63520E4E1CB519E93E6DBEB5AEEE49.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.42.33:192][592]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter4A6A5DA44BD86B210F6D8A9DCCFFF7E8.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.42.53:078][921]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.42.53:212][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.09-23.42.53:671][971]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter1B6CCB154D8938A72B09A08C49A2995C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.43.13:939][327]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.43.14:085][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.09-23.43.14:399][360]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter28F39C994A7925054849F7B49FFAF0A0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.43.18:425][837]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterF1A030D5455B1BCEFC56D7930983FE69.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.44.06:641][513]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.44.06:782][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.09-23.44.07:199][557]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter116FD35742393A65E1CF5E95A8FDFC41.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.44.12:833][226]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter8777D60448DBCA37EECAAAB246071D99.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.44.17:490][772]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter7BE957ED4E77C933402D56A4E4C97524.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.44.55:032][254]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterD36969CF41D22E87FE9E368B7C8CD9BE.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.44.58:447][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.44.58:556][654]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.44.58:568][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.44.58:568][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-23.44.58:568][654]PIE: New page: PIE session: Testmap (10 aug 2019 03:44:58)
+[2019.08.09-23.44.58:568][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.44.58:570][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002146s)
+[2019.08.09-23.44.58:570][654]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.44.58:571][654]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2019.08.09-23.44.58:571][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002723s)
+[2019.08.09-23.44.58:600][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.08.09-23.44.58:631][654]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.44.58:640][654]LogInit: FAudioDevice initialized.
+[2019.08.09-23.44.58:669][654]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.44.58:670][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.44.58
+[2019.08.09-23.44.58:671][654]LogWorld: Bringing up level for play took: 0.000569
+[2019.08.09-23.44.58:683][654]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,49
+[2019.08.09-23.44.58:683][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.45.00:453][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.45.00:453][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.45.00:482][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.45.00:482][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.45.00:511][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.45.00:515][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.08.09-23.45.00:560][866]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.08.09-23.45.01:025][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.45.01:672][994]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacterB674DD03490B7F150BB099972825BA07.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.09-23.45.13:840][369]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter67BAC8644B5ECCA9B7A430B3590DD94F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.45.16:654][696]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterF2266A2A46E03A6B966DE3A789B6153B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.45.23:886][522]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter6FC6F8AC4E3E3854ECBA4DA69F2844DA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.45.25:842][752]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.45.25:981][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.09-23.45.26:372][793]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter77907AE2449AD8E2217E7882D9B6F011.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.45.41:225][537]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter1FB02C9543912DD7E824EEA916BAA0B0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.46.43:488][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.09-23.46.43:606][984]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/TestmapD5BF527F4831B10E9477A7AF610FBB4C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.09-23.47.12:036][351]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.09-23.47.12:172][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.09-23.47.12:571][393]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter9D55B6CA4D7B92F038B2938A6BA61321.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.47.17:632][990]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter73D876A14FABF2DE549066A1018F5EC0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.47.18:522][ 91]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter3E271C1D4B960A1AE24D4DBFD7DDC196.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.47.24:525][804]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter673AECF14691567B4DBD0E8C8D76AB53.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.09-23.47.26:688][ 49]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.47.26:692][ 49]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2019.08.09-23.47.28:752][289]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.47.28:760][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.47.28:760][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-23.47.28:760][289]PIE: New page: PIE session: Testmap (10 aug 2019 03:47:28)
+[2019.08.09-23.47.28:760][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.47.28:762][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002049s)
+[2019.08.09-23.47.28:763][289]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.47.28:763][289]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2019.08.09-23.47.28:763][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002568s)
+[2019.08.09-23.47.28:792][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.09-23.47.28:825][289]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.47.28:834][289]LogInit: FAudioDevice initialized.
+[2019.08.09-23.47.28:859][289]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.47.28:860][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.47.28
+[2019.08.09-23.47.28:860][289]LogWorld: Bringing up level for play took: 0.000493
+[2019.08.09-23.47.28:873][289]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,68
+[2019.08.09-23.47.28:873][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.47.46:115][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.47.46:116][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.47.46:144][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.47.46:144][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.47.46:172][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.47.46:176][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.09-23.47.46:222][358]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.08.09-23.47.50:681][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.51.19:781][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.51.19:881][132]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.51.19:888][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.51.19:888][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-23.51.19:888][132]PIE: New page: PIE session: Testmap (10 aug 2019 03:51:19)
+[2019.08.09-23.51.19:888][132]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.51.19:890][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002333s)
+[2019.08.09-23.51.19:891][132]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.51.19:891][132]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.08.09-23.51.19:891][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002928s)
+[2019.08.09-23.51.19:914][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.09-23.51.19:947][132]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.51.19:956][132]LogInit: FAudioDevice initialized.
+[2019.08.09-23.51.19:985][132]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.51.19:986][132]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.51.19
+[2019.08.09-23.51.19:986][132]LogWorld: Bringing up level for play took: 0.000529
+[2019.08.09-23.51.19:999][132]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,193
+[2019.08.09-23.51.19:999][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.51.39:946][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.51.39:946][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.51.39:975][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.51.39:975][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.51.40:004][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.51.40:008][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.09-23.51.40:055][523]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.08.09-23.51.40:971][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.51.41:413][685]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.08.09-23.51.45:103][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.51.50:151][639]LogEditorTransaction: Undo Set Vector Property
+[2019.08.09-23.51.50:153][639]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_24:PersistentLevel.BP_PlayerCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.08.09-23.52.01:846][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.52.03:189][170]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.52.03:198][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.03:198][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.09-23.52.03:198][170]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2019.08.09-23.52.03:343][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.09-23.52.03:344][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (1 blueprints)
+[2019.08.09-23.52.03:344][170]PIE: New page: PIE session: Testmap (10 aug 2019 03:52:03)
+[2019.08.09-23.52.03:344][170]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.52.03:346][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002074s)
+[2019.08.09-23.52.03:346][170]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.52.03:346][170]LogPlayLevel: PIE: World Init took: (0.000377s)
+[2019.08.09-23.52.03:346][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002536s)
+[2019.08.09-23.52.03:372][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.09-23.52.03:405][170]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.52.03:414][170]LogInit: FAudioDevice initialized.
+[2019.08.09-23.52.03:442][170]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.52.03:442][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.52.03
+[2019.08.09-23.52.03:443][170]LogWorld: Bringing up level for play took: 0.000506
+[2019.08.09-23.52.03:455][170]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,738
+[2019.08.09-23.52.03:455][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.04:446][270]Cmd: LevelEditor.ToggleImmersive
+[2019.08.09-23.52.04:595][272]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:104).
+[2019.08.09-23.52.04:635][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.06:759][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.06:759][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.06:811][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.52.06:811][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.06:841][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.06:844][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.09-23.52.06:866][528]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.09-23.52.07:774][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.09:293][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.20:680][ 66]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.09-23.52.20:812][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.09-23.52.21:138][ 95]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter30C2F2D3438CEA580482088BEB36FC2F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.09-23.52.22:798][283]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.52.22:807][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.22:807][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-23.52.22:807][283]PIE: New page: PIE session: Testmap (10 aug 2019 03:52:22)
+[2019.08.09-23.52.22:807][283]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.52.22:809][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002037s)
+[2019.08.09-23.52.22:810][283]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.52.22:810][283]LogPlayLevel: PIE: World Init took: (0.000424s)
+[2019.08.09-23.52.22:810][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002542s)
+[2019.08.09-23.52.22:831][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.08.09-23.52.22:864][283]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.52.22:872][283]LogInit: FAudioDevice initialized.
+[2019.08.09-23.52.22:900][283]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.52.22:901][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.52.22
+[2019.08.09-23.52.22:901][283]LogWorld: Bringing up level for play took: 0.000488
+[2019.08.09-23.52.22:914][283]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,721
+[2019.08.09-23.52.22:914][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.24:549][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.24:549][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.24:577][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.52.24:577][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.24:607][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.24:610][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.08.09-23.52.24:686][479]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.09-23.52.25:637][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-23.52.30:568][135]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.09-23.52.30:702][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.08.09-23.52.31:029][165]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter86A626EF4AE667D5E890F0B44795C288.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.09-23.52.32:839][369]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-23.52.32:848][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.32:848][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-23.52.32:848][369]PIE: New page: PIE session: Testmap (10 aug 2019 03:52:32)
+[2019.08.09-23.52.32:848][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.09-23.52.32:851][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002218s)
+[2019.08.09-23.52.32:851][369]LogAIModule: Creating AISystem for world Testmap
+[2019.08.09-23.52.32:851][369]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2019.08.09-23.52.32:851][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002701s)
+[2019.08.09-23.52.32:874][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.08.09-23.52.32:907][369]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.09-23.52.32:916][369]LogInit: FAudioDevice initialized.
+[2019.08.09-23.52.32:945][369]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.09-23.52.32:946][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-01.52.32
+[2019.08.09-23.52.32:946][369]LogWorld: Bringing up level for play took: 0.000505
+[2019.08.09-23.52.32:957][369]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,765
+[2019.08.09-23.52.32:957][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.34:667][572]Cmd: LevelEditor.ToggleImmersive
+[2019.08.09-23.52.34:845][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.41:661][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.41:662][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.41:717][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-23.52.41:718][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.09-23.52.41:747][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-23.52.41:750][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.09-23.52.41:782][397]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.08.09-23.52.42:497][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.44:182][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-23.52.47:992][ 47]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacterA9F4AB5347DDF4D6D139C3AFBB78FCBB.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.09-23.52.54:983][813]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter29585B3449C9130517558DB284E6E597.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.09-23.53.00:911][426]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.09-23.55.19:556][663]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.09-23.55.19:560][663]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.09-23.55.25:875][401]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter489CA1244ABF1278966EBD9EEA544F2F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.00.33:762][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.00.33:793][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.08.10-00.00.33:939][562]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap6AA74B7546CF8C92D34612A46D608A9E.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.01.27:809][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.01.44:760][937]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.01.44:909][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.10-00.01.45:298][973]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter31BA53674189F417A4EC7D931B394F40.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.01.54:517][921]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.01.54:668][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.10-00.01.54:997][950]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter8938667E47C25DEFB949ECB4C3AADD06.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.02.52:824][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.02.52:891][810]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.02.52:902][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.02.52:902][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.02.52:902][810]PIE: New page: PIE session: Testmap (10 aug 2019 04:02:52)
+[2019.08.10-00.02.52:902][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.02.52:904][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002119s)
+[2019.08.10-00.02.52:905][810]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.02.52:905][810]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2019.08.10-00.02.52:905][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002668s)
+[2019.08.10-00.02.52:930][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.10-00.02.52:963][810]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.02.52:972][810]LogInit: FAudioDevice initialized.
+[2019.08.10-00.02.52:998][810]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.02.52:999][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.02.52
+[2019.08.10-00.02.52:999][810]LogWorld: Bringing up level for play took: 0.000560
+[2019.08.10-00.02.53:012][810]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,82
+[2019.08.10-00.02.53:012][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.02.57:297][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.02.57:297][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.02.57:329][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.02.57:329][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.02.57:359][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.02.57:362][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.08.10-00.02.57:423][324]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.08.10-00.02.58:542][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.03.07:421][453]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.03.07:553][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.10-00.03.08:419][547]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter5D0E7BE34E10A3D0D84E35B70936494C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.03.51:949][726]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.03.52:090][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.08.10-00.03.52:533][768]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter89BA3D81450ECB460AAD7C83858B34C1.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.04.04:083][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/BP_PlayerController.BP_PlayerController
+[2019.08.10-00.04.26:254][607]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-00.04.26:380][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.10-00.04.26:746][647]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController3AA21DB3449B6D1B037323A336B83A13.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.04.38:211][ 11]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-00.04.38:340][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.10-00.04.38:747][ 56]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController1873A2654131E1392F7DFA9EBCA4E1BB.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.04.47:475][ 85]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-00.04.47:600][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.10-00.04.48:125][143]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController8094EEC540F99872652EF9B7DAC173FC.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.05.09:125][605]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-00.05.09:263][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.10-00.05.09:510][631]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController94AF55C540ECC2811AE49C9B3E8C7920.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.05.14:875][271]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController2364B2C54ED9C1599848B68DA025AB09.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.05.55:380][ 67]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerD9B7263844DA50E4BACE57888FE3D2C0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-00.05.57:570][315]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.05.57:582][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.05.57:582][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.05.57:582][315]PIE: New page: PIE session: Testmap (10 aug 2019 04:05:57)
+[2019.08.10-00.05.57:582][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.05.57:584][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2019.08.10-00.05.57:584][315]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.05.57:585][315]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.08.10-00.05.57:585][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002779s)
+[2019.08.10-00.05.57:614][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.10-00.05.57:646][315]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.05.57:655][315]LogInit: FAudioDevice initialized.
+[2019.08.10-00.05.57:683][315]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.05.57:684][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.05.57
+[2019.08.10-00.05.57:684][315]LogWorld: Bringing up level for play took: 0.000538
+[2019.08.10-00.05.57:697][315]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,496
+[2019.08.10-00.05.57:697][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.06.06:172][330]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.06.06:172][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.06.06:204][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.06.06:205][330]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.06.06:236][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.06.06:239][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.08.10-00.06.06:353][332]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.08.10-00.06.07:353][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.06.31:419][206]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.06.31:555][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.10-00.06.31:938][241]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacterD44CF44A4D79AAA7B9FF7A841A676326.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.06.36:757][804]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2019.08.10-00.07.11:160][817]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.07.11:307][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.10-00.07.11:624][848]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter5BE374A346D27274BCA9B8BF49664402.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.08.06:657][431]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.08.06:814][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.10-00.08.07:115][460]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter096504FC40E4B23DF00F92B03A88568D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.44.56:710][192]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.44.56:858][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.10-00.44.59:662][521]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.44.59:812][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.08.10-00.45.00:078][546]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterFFB6200E43B8CD907277EF9D7B7A8B5B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.46.05:137][313]LogEditorTransaction: Undo Add Node
+[2019.08.10-00.46.07:328][565]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.46.07:481][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.10-00.46.07:783][594]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterC9668DAC4AA017A1AE967EA3E11333C3.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.46.34:199][701]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.46.34:351][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.10-00.46.34:697][736]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter0C2D85C04754A5E5CCC987901C8150E7.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.47.17:164][769]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.47.17:314][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.10-00.47.17:696][807]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter08B63C7946760CE31EC7A29CFAA23369.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.47.28:447][ 86]LogBlueprint: Warning: Blueprint BP_PlayerCharacter (child of/implements BP_BaseCharacter) has a member variable with a conflicting name (RunSpeed). Changing to RunSpeed_0.
+[2019.08.10-00.47.31:794][478]LogEditorTransaction: Undo Change Variable Category
+[2019.08.10-00.47.36:705][ 37]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.47.36:860][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.10-00.47.37:131][ 62]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterE9080BA2431AD73DAAEA2B879E3A7D25.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.47.49:705][551]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.47.49:856][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.10-00.47.50:238][590]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter77F468B045FFECE49D0512AA27AFF5F5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.48.05:182][314]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter90E3B8D94EA95EA4E3D1A6B1150830A7.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.48.05:192][314]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_EnemyBase93282ACE4E9834F4222119A0C855D026.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_EnemyBase.uasset'
+[2019.08.10-00.48.05:231][314]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacter8A7E66E7486FC8A32F90FFBC515F48DF.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.48.24:645][613]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/_Blueprints/Enums/E_MovementMode.E_MovementMode
+[2019.08.10-00.48.44:152][901]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/E_MovementMode636D068C40D4FF5374412D89FA164E82.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Enums/E_MovementMode.uasset'
+[2019.08.10-00.48.56:499][362]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.48.56:654][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.10-00.48.56:916][386]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterF5E8C5DC4D833AC559F4B9949C989C45.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.49.38:394][874]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.10-00.49.39:611][ 11]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter:UpdateMoveSpeed.K2Node_VariableSet_1 or K2Node_VariableSet /Game/_Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter:UpdateMoveSpeed.K2Node_VariableSet_1
+[2019.08.10-00.50.09:923][591]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.50.10:073][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.10-00.50.10:495][633]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter4FC305F9495F16D6309E82AA81C50FDD.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.50.16:555][350]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter07EB5E4D425AA5B636AC0BA8DC637043.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.50.21:078][870]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterB3AB20CC46BB931BEEFA3EB11C1A9DE4.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.50.24:500][261]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.50.24:516][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.50.24:517][261]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.10-00.50.24:517][261]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.08.10-00.50.24:551][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.10-00.50.24:551][261]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2019.08.10-00.50.24:551][261]PIE: New page: PIE session: Testmap (10 aug 2019 04:50:24)
+[2019.08.10-00.50.24:551][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.50.24:553][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002233s)
+[2019.08.10-00.50.24:554][261]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.50.24:554][261]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2019.08.10-00.50.24:554][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002839s)
+[2019.08.10-00.50.24:583][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.08.10-00.50.24:615][261]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.50.24:624][261]LogInit: FAudioDevice initialized.
+[2019.08.10-00.50.24:653][261]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.50.24:654][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.50.24
+[2019.08.10-00.50.24:654][261]LogWorld: Bringing up level for play took: 0.000585
+[2019.08.10-00.50.24:667][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,475
+[2019.08.10-00.50.24:667][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.50.26:521][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.50.26:521][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.50.26:548][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.50.26:548][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.50.26:583][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.50.26:586][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.08.10-00.50.26:692][483]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.08.10-00.50.28:220][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.50.38:876][881]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacter1BE7C627401B45DB46ADB6AF5243A768.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.50.44:781][483]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.10-00.51.04:278][772]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.10-00.51.04:283][772]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.10-00.51.08:669][274]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacterA877BE334AD337ACE3A9748EDD8E3567.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.51.31:445][911]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.08.10-00.51.31:592][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.10-00.51.32:008][951]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerCharacterA2EAA88C4E7C205BEB341E891C001F7A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_PlayerCharacter.uasset'
+[2019.08.10-00.51.35:922][417]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.51.35:935][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.35:935][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.51.35:935][417]PIE: New page: PIE session: Testmap (10 aug 2019 04:51:35)
+[2019.08.10-00.51.35:936][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.51.35:938][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002035s)
+[2019.08.10-00.51.35:938][417]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.51.35:938][417]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2019.08.10-00.51.35:938][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002546s)
+[2019.08.10-00.51.35:967][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.08.10-00.51.35:999][417]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.51.36:009][417]LogInit: FAudioDevice initialized.
+[2019.08.10-00.51.36:033][417]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.51.36:035][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.51.36
+[2019.08.10-00.51.36:035][417]LogWorld: Bringing up level for play took: 0.000511
+[2019.08.10-00.51.36:047][417]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,145
+[2019.08.10-00.51.36:047][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.38:882][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.38:882][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.51.38:909][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.51.38:909][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.38:939][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.51.38:943][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.10-00.51.39:010][757]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.08.10-00.51.40:325][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.51.51:448][ 90]BlueprintLog: New page: Compile BP_BaseCharacter
+[2019.08.10-00.51.51:599][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.08.10-00.51.52:043][135]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_BaseCharacterD99A9B2E4FCFB719BBB0799E74B894B6.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Characters/BP_BaseCharacter.uasset'
+[2019.08.10-00.51.53:812][332]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.51.53:826][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.53:826][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.51.53:827][332]PIE: New page: PIE session: Testmap (10 aug 2019 04:51:53)
+[2019.08.10-00.51.53:827][332]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.51.53:829][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002110s)
+[2019.08.10-00.51.53:829][332]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.51.53:829][332]LogPlayLevel: PIE: World Init took: (0.000410s)
+[2019.08.10-00.51.53:829][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002619s)
+[2019.08.10-00.51.53:860][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.10-00.51.53:892][332]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.51.53:900][332]LogInit: FAudioDevice initialized.
+[2019.08.10-00.51.53:931][332]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.51.53:932][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.51.53
+[2019.08.10-00.51.53:932][332]LogWorld: Bringing up level for play took: 0.000505
+[2019.08.10-00.51.53:945][332]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,248
+[2019.08.10-00.51.53:945][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.58:279][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.58:279][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.51.58:307][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.51.58:307][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.51.58:342][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.51.58:346][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.10-00.51.58:410][852]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.08.10-00.51.59:531][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.51.59:693][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.08.10-00.51.59:818][  1]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/TestmapB5D92191486EFF2075BA93AEBC9BFA76.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.52.02:953][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.08.10-00.52.42:204][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.08.10-00.52.42:335][745]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap0DB7D2F3430C08E04E836E84DB543401.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.52.45:725][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.52.45:761][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.10-00.52.45:884][126]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/TestmapA4DDAA7F4A125915200F3CB7FE853257.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.53.00:252][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.55.24:848][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.55.24:914][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.55.24:932][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.24:932][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.55.24:932][900]PIE: New page: PIE session: Testmap (10 aug 2019 04:55:24)
+[2019.08.10-00.55.24:932][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.55.24:935][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002356s)
+[2019.08.10-00.55.24:935][900]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.55.24:935][900]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2019.08.10-00.55.24:935][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.003000s)
+[2019.08.10-00.55.24:963][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.08.10-00.55.24:996][900]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.55.25:005][900]LogInit: FAudioDevice initialized.
+[2019.08.10-00.55.25:033][900]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.55.25:033][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.55.25
+[2019.08.10-00.55.25:033][900]LogWorld: Bringing up level for play took: 0.000516
+[2019.08.10-00.55.25:046][900]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,854
+[2019.08.10-00.55.25:046][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.27:127][147]Cmd: LevelEditor.ToggleImmersive
+[2019.08.10-00.55.27:303][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.55.40:212][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.40:212][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.55.40:270][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.55.40:270][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.40:300][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.55.40:304][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.10-00.55.40:325][703]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.08.10-00.55.42:652][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-00.55.42:667][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.42:667][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-00.55.42:667][974]PIE: New page: PIE session: Testmap (10 aug 2019 04:55:42)
+[2019.08.10-00.55.42:667][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-00.55.42:669][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002032s)
+[2019.08.10-00.55.42:670][974]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-00.55.42:670][974]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2019.08.10-00.55.42:670][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002543s)
+[2019.08.10-00.55.42:697][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.08.10-00.55.42:730][974]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-00.55.42:739][974]LogInit: FAudioDevice initialized.
+[2019.08.10-00.55.42:739][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.55.42:770][974]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-00.55.42:772][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-02.55.42
+[2019.08.10-00.55.42:772][974]LogWorld: Bringing up level for play took: 0.000544
+[2019.08.10-00.55.42:784][974]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,591
+[2019.08.10-00.55.42:784][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.52:797][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.52:798][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.55.52:829][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-00.55.52:829][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-00.55.52:864][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-00.55.52:868][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.10-00.55.52:929][161]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.08.10-00.55.55:297][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.55.55:328][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.10-00.55.55:470][439]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap10BEFF56460D51059BA6F18F53D7FE20.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.55.56:839][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.10-00.55.58:648][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.08.10-00.56.01:246][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.56.01:280][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.10-00.56.01:401][ 90]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/TestmapA177897F42B3A37D2920599B8BF6BBF7.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.56.10:500][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.10-00.56.11:300][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-00.56.12:380][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-00.56.13:120][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.10-00.56.13:241][458]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap2D5922F44A0D542A060D268969C06EF4.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-00.56.17:121][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.08.10-01.04.20:671][783]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-01.04.20:688][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.04.20:688][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-01.04.20:688][783]PIE: New page: PIE session: Testmap (10 aug 2019 05:04:20)
+[2019.08.10-01.04.20:688][783]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-01.04.20:691][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002563s)
+[2019.08.10-01.04.20:691][783]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-01.04.20:691][783]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.08.10-01.04.20:692][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.003262s)
+[2019.08.10-01.04.20:722][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.08.10-01.04.20:755][783]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-01.04.20:764][783]LogInit: FAudioDevice initialized.
+[2019.08.10-01.04.20:790][783]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-01.04.20:791][783]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-03.04.20
+[2019.08.10-01.04.20:791][783]LogWorld: Bringing up level for play took: 0.000581
+[2019.08.10-01.04.20:804][783]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,612
+[2019.08.10-01.04.20:804][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.04.24:041][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.04.24:042][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.04.24:071][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-01.04.24:071][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.04.24:103][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.04.24:106][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.08.10-01.04.24:160][171]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.08.10-01.09.50:549][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.10.12:865][759]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.10.13:022][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.08.10-01.10.13:268][784]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController40AB5A904943E6DA91C928B75BD57396.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.10.29:612][658]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/E_ShotTypesB8A24B2D40DFEE387998479D521921CA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Enums/E_ShotTypes.uasset'
+[2019.08.10-01.10.30:065][711]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/_Blueprints/Enums/E_ShotTypes.E_ShotTypes
+[2019.08.10-01.14.38:524][950]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/E_ShotTypesC832CA7D41F631823EAFE4AA80159D75.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Enums/E_ShotTypes.uasset'
+[2019.08.10-01.14.51:200][455]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/E_ShotTypes703EE89D44DE519F62CE9F928010559D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Enums/E_ShotTypes.uasset'
+[2019.08.10-01.15.23:223][266]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/E_ShotTypes7DEA471D43FC0E3535DC0FB3879CC63A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Enums/E_ShotTypes.uasset'
+[2019.08.10-01.15.34:513][586]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.15.34:515][586]LogClass: Warning: Type mismatch in CurrentShotType of BP_PlayerController_C - Previous (FloatProperty) Current(ByteProperty) for package:  FObjectReader
+[2019.08.10-01.15.34:647][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.10-01.15.35:018][626]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController3023F12B4FAEB5BADBBE34B965149A44.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.16.02:233][531]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.08.10-01.16.33:183][214]LogMetaData: Removing '/Game/_Blueprints/Structs/S_ShotData.S_ShotData' ref from Metadata '/Game/_Blueprints/Structs/E_ShotData.PackageMetaData'
+[2019.08.10-01.16.33:183][214]LogMetaData: Removing '/Game/_Blueprints/Structs/S_ShotData.S_ShotData:MemberVar_0_F24232DC4409D1ABA2D1628AD6F90AF4' ref from Metadata '/Game/_Blueprints/Structs/E_ShotData.PackageMetaData'
+[2019.08.10-01.16.33:198][214]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotDataEBD62C5C4A58B153977F2A807212EDF6.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.16.33:387][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.10-01.16.33:418][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.08.10-01.16.33:447][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.08.10-01.16.41:621][189]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/_Blueprints/Structs/S_ShotData.S_ShotData
+[2019.08.10-01.17.31:054][ 96]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotData24F2BB4448BE26E0C2727E8538F46114.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.17.44:215][261]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.08.10-01.17.54:129][447]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData2E7312AD478B2475D85528B1BC62A2E5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.17.54:567][498]LogAssetEditorManager: Opening Asset editor for DataTable /Game/_Blueprints/DataTables/DT_ShotData.DT_ShotData
+[2019.08.10-01.17.54:571][498]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2019.08.10-01.18.07:135][969]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.18.07:339][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.08.10-01.18.07:658][  4]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController1C45D5E54DBDA0EA4507739F4AD4E85B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.18.09:917][269]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataF470A06E4243ACF19F6E7E95B86AAF05.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.18.17:245][118]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/_Blueprints/Structs/S_ShotData.S_ShotData
+[2019.08.10-01.18.37:787][520]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotDataF50FFF9E47D79BC12EE005A96D40ADB9.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.18.43:179][163]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData3442F8F643583236CE776D9ADA35DA23.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.18.51:157][117]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataC6A7DF734AE25FE736A9D7BE7A708CED.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.19.36:586][257]LogSlate: Window 'Message' being destroyed
+[2019.08.10-01.19.38:118][257]LogSlate: Window 'Message' being destroyed
+[2019.08.10-01.20.28:734][327]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData009E23444AFF09B3025C2C8490DE2A03.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.21.09:195][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.08.10-01.21.09:195][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testmap' took 0.044
+[2019.08.10-01.21.09:196][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/DataTables/DT_ShotData] ([1] browsable assets)...
+[2019.08.10-01.21.09:197][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/DataTables/DT_ShotData]
+[2019.08.10-01.21.09:198][154]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData_Auto186344DA2407C1BC1127E6E80A5F8B267.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Autosaves/Game/_Blueprints/DataTables/DT_ShotData_Auto1.uasset'
+[2019.08.10-01.21.09:198][154]LogFileHelpers: Auto-saving content packages took 0.002
+[2019.08.10-01.21.15:836][948]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData6528649248F1E91A30DAEDBA075B85C5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.21.40:484][889]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataDDBAED50472911B96D412EB73C6A6D6D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.21.47:202][676]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData6BA933B94299134C9C27EF9549799B31.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.22.06:111][882]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/_Blueprints/Structs/S_ShotData.S_ShotData
+[2019.08.10-01.22.22:416][768]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotData634BEC6E4CAFCD1BE5AF928581573B78.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.22.25:039][ 79]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData2655F11944B590774868648087B4AE2A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.24.09:863][652]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData938EA43C4E785D75E7C7F793620E0E37.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.24.22:410][143]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataC142642C40851491FED59EAD8FFD631A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.24.25:195][470]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataBF1E868A49989C93F55DC9B359419FD4.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.24.50:476][485]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData3393ACB84DCA776165B5E3932B0D355F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.25.16:371][590]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataFCC5FA1E4342019569BCB9AE91B7B313.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.25.36:981][ 28]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.25.37:135][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.10-01.25.37:421][ 58]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController80519A594B448DB798181CAA32875643.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.25.40:063][367]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.25.40:216][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.10-01.25.40:451][391]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController1A1D61DC4DCF1647A0EF9EBF1F4FCE71.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.26.46:414][189]BlueprintLog: New page: Collapse to Function
+[2019.08.10-01.27.13:562][421]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.27.13:564][421]LogBlueprint: Error: [Compiler BP_PlayerController] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row  to imply a specific type.
+[2019.08.10-01.27.13:723][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.10-01.27.13:728][421]LogBlueprint: Warning: [Compiler BP_PlayerController] [3082,25] Compile of BP_PlayerController failed. 1 Fatal Issue(s) 0 Warning(s) [in 165 ms] (/Game/_Blueprints/BP_PlayerController.BP_PlayerController)
+[2019.08.10-01.27.13:961][445]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController28261BDD42B258D06A6A84B5CAC8246D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.28.37:880][382]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.28.37:883][382]LogBlueprint: Error: [Compiler BP_PlayerController] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row  to imply a specific type.
+[2019.08.10-01.28.38:061][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.08.10-01.28.38:064][382]LogBlueprint: Warning: [Compiler BP_PlayerController] [3166,59] Compile of BP_PlayerController failed. 1 Fatal Issue(s) 0 Warning(s) [in 185 ms] (/Game/_Blueprints/BP_PlayerController.BP_PlayerController)
+[2019.08.10-01.28.38:415][420]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerA2FF08D5443ACB4CE1F236989365C82A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.29.51:304][903]LogEditorTransaction: Undo Create Pin Link
+[2019.08.10-01.30.04:881][515]LogEditorTransaction: Undo Delete current selection
+[2019.08.10-01.30.14:742][667]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.30.14:911][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.08.10-01.30.15:291][708]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerE915D7C04C329C53B075D38D0AC09F18.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.32.02:857][419]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.32.03:026][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.08.10-01.32.03:348][452]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerD69185884267CBACF6FAE9923F8F24BA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.32.17:195][ 83]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.08.10-01.32.34:370][104]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.32.34:557][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.08.10-01.32.34:845][133]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController9622BD884502DB59A6897A823BAAC038.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.32.42:059][967]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.32.42:235][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.08.10-01.32.42:515][995]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerA2D6B83C44898D60A8AAD2BD149DFF3D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.33.22:842][539]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.10-01.33.27:806][131]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.33.27:974][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.08.10-01.33.28:342][170]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController6143666D420249AD88D23795D29BD069.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.33.34:569][912]LogEditorTransaction: Undo Move Node
+[2019.08.10-01.33.45:377][187]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.33.45:555][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.08.10-01.33.45:965][231]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController27B79FC444272A6140333AA6326A50B6.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.34.03:217][268]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController4068B11A4CB2B04C7C0DE89CE68ED521.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.34.12:258][329]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerF5FBCEE242107D39A0DDBA8BC2A835BA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.34.16:781][843]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController9713A56F49A67268B013BF823405DC1D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.34.39:654][426]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.10-01.34.48:332][463]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBaseD611B884402B82DD10083481895B9562.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.34.53:514][ 19]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/_Blueprints/Structs/S_ShotData.S_ShotData
+[2019.08.10-01.35.05:819][436]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotData285D2BDC499FF9AB6E81E19D645F4270.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.35.09:772][873]LogAssetEditorManager: Opening Asset editor for DataTable /Game/_Blueprints/DataTables/DT_ShotData.DT_ShotData
+[2019.08.10-01.35.12:330][131]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData97B2EA5C49E2BEB126085983784D92B5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.35.13:749][298]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.10-01.35.16:385][612]Cmd: TRANSACTION UNDO
+[2019.08.10-01.35.16:385][612]LogEditorTransaction: Undo Edit MemberVar_17
+[2019.08.10-01.35.20:963][150]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotDataDB5A05A64BDBD6704405F1BDA0BD92AA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.35.27:581][939]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotData3F4BD31349C6FAAFE716B383FAB45861.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.35.31:212][363]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.35.31:393][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.08.10-01.35.31:811][408]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController155A1FCB4F5FC0FCCD0F9996B3F8FA2B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.35.50:300][616]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/S_ShotData5BFB6FEA44405B61ED34B8838F94BAF6.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Structs/S_ShotData.uasset'
+[2019.08.10-01.36.26:495][901]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerC57D15314BF80FF73574949187C633E8.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.36.40:309][540]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.36.40:313][540]LogBlueprint: Error: [Compiler BP_PlayerController] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.10-01.36.40:313][540]LogBlueprint: Error: [Compiler BP_PlayerController] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.10-01.36.40:485][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.08.10-01.36.40:490][540]LogBlueprint: Warning: [Compiler BP_PlayerController] [3649,01] Compile of BP_PlayerController failed. 2 Fatal Issue(s) 0 Warning(s) [in 180 ms] (/Game/_Blueprints/BP_PlayerController.BP_PlayerController)
+[2019.08.10-01.36.40:766][568]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerC5107A3443431FFB0EF1CB8E4F2D38D0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.36.46:716][254]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.36.46:884][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.10-01.36.47:227][289]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController09A0AC074F0A66407F2FE2A366756CF0.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.36.49:609][565]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController01E42C184AFC8C013BC462AC0F4D41FE.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.37.00:957][900]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerF70DCB0644642BE9D034B286BEE6D79A.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.37.07:080][602]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/DT_ShotDataCA32BE4D4685A4769C85A1A1DFC921C5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/DataTables/DT_ShotData.uasset'
+[2019.08.10-01.37.09:267][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.10-01.37.11:395][100]LogSlate: Window 'DT_ShotData' being destroyed
+[2019.08.10-01.37.11:398][100]LogSlate: Window 'DT_ShotData' being destroyed
+[2019.08.10-01.37.11:510][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.10-01.37.11:576][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.10-01.37.19:301][ 15]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Projectiles/BP_ProjectileBase.BP_ProjectileBase
+[2019.08.10-01.37.27:649][922]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.37.27:836][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.08.10-01.37.28:221][965]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase9FB233A64D3CF374F08ADD823B2AE01D.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.37.35:676][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.37.35:815][835]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase43B8186B484B34CFB36073B78A4418D1.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.00:129][713]LogEditorTransaction: Undo Make New Scene Root
+[2019.08.10-01.38.03:249][ 77]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.38.03:434][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.08.10-01.38.03:775][113]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBaseD5FEBAE0434C6AC7DB44B2915670A1A5.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.08:729][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.38.08:844][660]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.38.08:974][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.10-01.38.09:332][696]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase55F3D3F442E69227A1B4AD9DEB3D50B4.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.10:317][798]LogSlate: Window 'BP_ProjectileBase' being destroyed
+[2019.08.10-01.38.10:321][798]LogSlate: Window 'BP_ProjectileBase' being destroyed
+[2019.08.10-01.38.13:847][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-01.38.13:880][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.08.10-01.38.14:005][206]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/TestmapAC460FD04E30C8FB0CA9388AC3405F27.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
+[2019.08.10-01.38.16:542][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Projectiles/BP_ProjectileBase.BP_ProjectileBase
+[2019.08.10-01.38.28:974][842]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.38.29:107][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.10-01.38.29:478][878]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBaseCF1102FB438478B4735D888F15AF3135.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.36:059][642]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.38.36:187][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.10-01.38.36:525][677]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase6EAF644B49ABF38611D8F1A669D7337B.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.41:244][231]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBaseC1EBEEE74CE6DF52351DD59321B01C7E.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.38.42:272][339]LogSlate: Window 'BP_ProjectileBase' being destroyed
+[2019.08.10-01.38.42:277][339]LogSlate: Window 'BP_ProjectileBase' being destroyed
+[2019.08.10-01.38.46:256][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.38.46:331][805]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-01.38.46:342][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.38.46:342][805]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.10-01.38.46:342][805]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.08.10-01.38.46:367][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.10-01.38.46:367][805]LogPlayLevel: PlayLevel: Blueprint regeneration took 25 ms (1 blueprints)
+[2019.08.10-01.38.46:368][805]PIE: New page: PIE session: Testmap (10 aug 2019 05:38:46)
+[2019.08.10-01.38.46:368][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-01.38.46:370][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001965s)
+[2019.08.10-01.38.46:370][805]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-01.38.46:370][805]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2019.08.10-01.38.46:370][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002514s)
+[2019.08.10-01.38.46:393][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.08.10-01.38.46:426][805]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-01.38.46:435][805]LogInit: FAudioDevice initialized.
+[2019.08.10-01.38.46:465][805]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-01.38.46:466][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-03.38.46
+[2019.08.10-01.38.46:466][805]LogWorld: Bringing up level for play took: 0.000501
+[2019.08.10-01.38.46:478][805]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap 0,286
+[2019.08.10-01.38.46:478][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.38.49:639][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.38.49:639][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.38.49:670][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-01.38.49:670][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.38.49:699][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.38.49:703][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.08.10-01.38.49:753][184]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.08.10-01.38.52:012][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.38.54:790][787]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/BP_PlayerController.BP_PlayerController
+[2019.08.10-01.40.02:112][626]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.40.02:254][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.10-01.40.02:627][662]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerControllerB3A7C3494F87493FFF8617B4AAE9DF8F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.40.39:484][967]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.40.39:623][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.08.10-01.40.39:934][995]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController2A02955744CA7751764819B75ADBCECA.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.41.10:022][447]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController5B5E776F43E20091650B5D81D02708A3.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.41.30:515][773]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController7AC1FBCB4099AAD26E5E5EA499F6CD4F.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.41.39:268][755]BlueprintLog: New page: Compile BP_PlayerController
+[2019.08.10-01.41.39:406][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.10-01.41.39:715][785]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_PlayerController4946E5F948EB8B409208928BD5AFC5D2.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/BP_PlayerController.uasset'
+[2019.08.10-01.41.41:766][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-01.41.41:775][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.41.41:775][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-01.41.41:775][ 19]PIE: New page: PIE session: Testmap (10 aug 2019 05:41:41)
+[2019.08.10-01.41.41:775][ 19]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-01.41.41:778][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2019.08.10-01.41.41:778][ 19]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-01.41.41:778][ 19]LogPlayLevel: PIE: World Init took: (0.000415s)
+[2019.08.10-01.41.41:778][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002625s)
+[2019.08.10-01.41.41:805][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.10-01.41.41:837][ 19]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-01.41.41:846][ 19]LogInit: FAudioDevice initialized.
+[2019.08.10-01.41.41:876][ 19]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-01.41.41:877][ 19]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-03.41.41
+[2019.08.10-01.41.41:877][ 19]LogWorld: Bringing up level for play took: 0.000493
+[2019.08.10-01.41.41:890][ 19]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,303
+[2019.08.10-01.41.41:890][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.41.46:376][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.41.46:376][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.41.46:401][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-01.41.46:401][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.41.46:431][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.41.46:434][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.08.10-01.41.46:491][557]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.08.10-01.41.50:418][ 14]Cmd: SELECT NONE
+[2019.08.10-01.41.50:969][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.41.55:702][565]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Projectiles/BP_ProjectileBase.BP_ProjectileBase
+[2019.08.10-01.42.09:108][ 71]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.42.09:248][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.08.10-01.42.09:586][100]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase721C1C254FC1D9F4E68D149A98B73743.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.42.27:281][ 85]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.42.27:410][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.10-01.42.27:714][112]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBaseBEEEDD104C0465A06B53C3961F706B13.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.43.03:515][366]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.43.03:654][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.08.10-01.43.03:975][395]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase5341ED9B442414E4547565B5E5F48A9C.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.43.05:944][621]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-01.43.05:956][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.05:956][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-01.43.05:956][621]PIE: New page: PIE session: Testmap (10 aug 2019 05:43:05)
+[2019.08.10-01.43.05:956][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-01.43.05:958][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2019.08.10-01.43.05:959][621]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-01.43.05:959][621]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2019.08.10-01.43.05:959][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002674s)
+[2019.08.10-01.43.05:990][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.08.10-01.43.06:023][621]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-01.43.06:032][621]LogInit: FAudioDevice initialized.
+[2019.08.10-01.43.06:058][621]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-01.43.06:059][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-03.43.06
+[2019.08.10-01.43.06:059][621]LogWorld: Bringing up level for play took: 0.000506
+[2019.08.10-01.43.06:072][621]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,121
+[2019.08.10-01.43.06:072][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.14:717][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.14:718][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.43.14:747][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-01.43.14:747][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.14:780][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.43.14:784][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.10-01.43.14:839][658]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.08.10-01.43.16:081][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-01.43.27:186][859]BlueprintLog: New page: Compile BP_ProjectileBase
+[2019.08.10-01.43.27:319][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.10-01.43.27:634][888]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/BP_ProjectileBase1B4994A141AAF3404C77C281194D5606.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/_Blueprints/Projectiles/BP_ProjectileBase.uasset'
+[2019.08.10-01.43.30:034][162]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-01.43.30:045][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.30:046][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-01.43.30:046][162]PIE: New page: PIE session: Testmap (10 aug 2019 05:43:30)
+[2019.08.10-01.43.30:046][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testmap
+[2019.08.10-01.43.30:048][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002065s)
+[2019.08.10-01.43.30:048][162]LogAIModule: Creating AISystem for world Testmap
+[2019.08.10-01.43.30:048][162]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.08.10-01.43.30:048][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testmap.Testmap to /Game/Maps/UEDPIE_0_Testmap.Testmap (0.002662s)
+[2019.08.10-01.43.30:074][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.10-01.43.30:107][162]LogInit: XAudio2 using 'Högtalare (HyperX Cloud Flight Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-01.43.30:115][162]LogInit: FAudioDevice initialized.
+[2019.08.10-01.43.30:143][162]LogLoad: Game class is 'BP_GameModeWaveDefence_C'
+[2019.08.10-01.43.30:143][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2019.08.10-03.43.30
+[2019.08.10-01.43.30:144][162]LogWorld: Bringing up level for play took: 0.000506
+[2019.08.10-01.43.30:156][162]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testmap −0,036
+[2019.08.10-01.43.30:156][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.37:475][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.37:475][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.43.37:506][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-01.43.37:506][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testmap.Testmap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap' with GeneratedClass '/Game/Maps/Testmap.Testmap_C' with ClassGeneratedBy '/Game/Maps/Testmap.Testmap:PersistentLevel.Testmap'
+[2019.08.10-01.43.37:537][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-01.43.37:541][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.08.10-01.43.37:591][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.08.10-01.43.38:627][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-01.43.38:787][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.10-01.43.38:911][179]LogSavePackage: Moving '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Saved/Testmap97D2892F492C553BD0576EA9BC92C188.tmp' to '../../../../../../HobbyProjects/SummerGameJam2019/Git/UE4GameJam2019/SummerGameJam/Content/Maps/Testmap.umap'
