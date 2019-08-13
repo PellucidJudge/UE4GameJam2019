@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SummerGameJam/Saved/Logs/SummerGameJam.log
+SummerGameJam/Intermediate/CachedAssetRegistry.bin
+SummerGameJam/Intermediate/CachedAssetRegistry.bin
+SummerGameJam/Intermediate/CachedAssetRegistry.bin
+SummerGameJam/Saved/AutoScreenshot.png
+SummerGameJam/Saved/Config/Windows/EditorPerProjectUserSettings.ini
