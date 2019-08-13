@@ -16356,3 +16356,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.13-15.16.55:521][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.08.13-15.23.24:010][966]LogSlate: Window 'cha_patch_12_sword_attacks' being destroyed
 [2019.08.13-15.23.24:061][966]LogSlate: Window 'cha_patch_12_sword_attacks' being destroyed
+[2019.08.13-15.23.49:018][ 15]LogUObjectHash: Compacting FUObjectHashTables data took  31.00ms
+[2019.08.13-15.23.49:019][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/WaveDefenceMap_01' took 0.664
+[2019.08.13-15.23.49:024][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Characters/cha_patch_12/cha_patch_12_ABP] ([1] browsable assets)...
+[2019.08.13-15.23.49:155][ 15]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Art/Characters/cha_patch_12/cha_patch_12_ABP.cha_patch_12_ABP]
+[2019.08.13-15.23.49:155][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Characters/cha_patch_12/cha_patch_12_ABP]
+[2019.08.13-15.23.51:495][ 15]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_ABP_Auto41990C2A047F531A335DECA879F0E2986.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/Autosaves/Game/Art/Characters/cha_patch_12/cha_patch_12_ABP_Auto4.uasset'
+[2019.08.13-15.23.51:512][ 15]LogFileHelpers: Auto-saving content packages took 2.491
+[2019.08.13-15.24.09:303][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-15.24.10:237][ 91]LogUObjectHash: Compacting FUObjectHashTables data took  12.21ms
+[2019.08.13-15.24.11:214][ 91]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/WaveDefenceMap_014A1206CD48507DD3D8A76B8D94374F36.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Maps/WaveDefenceMap_01.umap'
+[2019.08.13-15.24.15:037][159]LogUObjectHash: Compacting FUObjectHashTables data took   9.99ms
+[2019.08.13-15.24.16:889][159]LogSlate: Window 'Save Content' being destroyed
+[2019.08.13-15.24.18:159][159]LogSavePackage: Moving '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Saved/cha_patch_12_ABP313AB0984E0EF115116A1089AA4F0959.tmp' to '../../../../../ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/Art/Characters/cha_patch_12/cha_patch_12_ABP.uasset'
+[2019.08.13-15.24.18:676][159]LogSlate: Window 'SummerGameJam - Unreal Editor' being destroyed
+[2019.08.13-15.24.18:760][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.13-15.24.20:851][160]Cmd: QUIT_EDITOR
+[2019.08.13-15.24.22:775][160]LogExit: Preparing to exit.
+[2019.08.13-15.24.24:724][160]LogDirectoryWatcher: A directory notification failed for 'F:/ue4gamejam2019/UE4GameJam2019/SummerGameJam/Content/', and we were unable to create a new request.
+[2019.08.13-15.24.25:433][160]LogExit: Editor shut down
+[2019.08.13-15.24.25:436][160]LogExit: Transaction tracking system shut down
